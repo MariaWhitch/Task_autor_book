@@ -70,9 +70,8 @@ public class TestAuthor {
     public static void main(String[] args) {
         
         Author[] authors = new Author[2];
-        authors[0] = new Author("Tan Ah Teck", "AhTeck@somewhere.com", 'm');
-        authors[0] = new Author("Mir Sahib", "AhTeck@somewhere.com", 'm');
+        authors[0] = new Author("Tank", "Tank@somewhere.com", 'm');
+        authors[0] = new Author("Mir", "Tank@somewhere.com", 'm');
  
     }
- 
 }
